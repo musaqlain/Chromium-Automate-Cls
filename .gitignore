@@ -2,4 +2,3 @@
 .git/
 .venv/
 __pycache__/
-file_paths.txt
